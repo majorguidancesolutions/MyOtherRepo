@@ -15,3 +15,5 @@ I am developer 2 -- feature change
 I am developer 1 -- feature branch change
 
 Feature Development 1 in sprint subbranch
+
+Feature Development 2 in sprint subbranch
